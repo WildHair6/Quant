@@ -1,0 +1,16 @@
+{
+  "binance": {
+    "apiKey": "your_binance_api_key",
+    "secret": "your_binance_api_secret"
+  },
+  "okx": {
+    "apiKey": "your_okx_api_key",
+    "secret": "your_okx_api_secret",
+    "password": "your_okx_passphrase"
+  },
+  "bitget": {
+    "apiKey": "your_bitget_api_key",
+    "secret": "your_bitget_api_secret",
+    "password": "your_bitget_passphrase"
+  }
+}
